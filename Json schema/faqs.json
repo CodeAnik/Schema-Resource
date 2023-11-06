@@ -1,0 +1,53 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://thepickleballscoreboard.com/#organization",
+      "name": "Pickleball Scoreboard",
+      "url": "https://thepickleballscoreboard.com",
+      "logo": {
+        "@type": "ImageObject",
+        "@id": "https://thepickleballscoreboard.com/#logo",
+        "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/pickleball-logo.svg",
+        "contentUrl": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/pickleball-logo.svg",
+        "caption": "Pickleball Scoreboard",
+        "inLanguage": "en-US"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://thepickleballscoreboard.com/#website",
+      "url": "https://thepickleballscoreboard.com",
+      "name": "Pickleball Scoreboard",
+      "publisher": {
+        "@id": "https://thepickleballscoreboard.com/#organization"
+      },
+      "inLanguage": "en-US"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "#webpage",
+      "url": "https://thepickleballscoreboard.com/",
+      "isPartOf": {
+        "@id": "https://thepickleballscoreboard.com/#website"
+      },
+      "inLanguage": "en-US",
+      "mainEntity": [{
+        "@type": "Question",
+        "name": "What are your scoreboards made of?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<p>Our scoreboards are made of premium acrylic and top-notch materials designed to withstand the most demanding weather conditions.</p>"
+        }
+      }, {
+        "@type": "Question",
+        "name": "What are the shipping and delivery options?",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "<p>We ship the scoreboards via FedEx Ground. If you need them delivered sooner, please contact us about expedited shipping costs.</p>"
+        }
+      }]
+    }
+  ]
+}
