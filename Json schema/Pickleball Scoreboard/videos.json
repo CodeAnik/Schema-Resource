@@ -1,0 +1,19 @@
+    {
+      "@context": "https://schema.org",
+      "@type": "VideoObject",
+      "name": "The Pickleball Scoreboard",
+      "description": "Watch the Pickleball Scoreboard in action, revolutionizing sports with precision and clarity. Stay ahead in the game with our state-of-the-art scoreboard system.",
+      "thumbnailUrl": [
+        "https://i.vimeocdn.com/video/1717155900-8c637105bfcc1a506b652469fcc5c84aba94084d10934944cc26267fd1404b7b-d?mw=900&mh=507"
+       ],
+      "uploadDate": "2016-03-31T08:00:00+08:00",
+      "duration": "PT1M54S",
+      "contentUrl": "https://vimeo.com/859349933",
+      "embedUrl": "https://player.vimeo.com/video/859349933?h=61e8ec5565",
+      "interactionStatistic": {
+        "@type": "InteractionCounter",
+        "interactionType": { "@type": "WatchAction" },
+        "userInteractionCount": 5647018
+      },
+      "regionsAllowed": "en,US"
+    }

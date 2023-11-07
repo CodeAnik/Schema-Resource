@@ -1,0 +1,21 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Testimonials",
+  "description": "From players to organizers, hear from the experiences of The Pickleball Scoreboard users. Discover how our scoreboards have elevated Pickleball games and tournaments.",
+    "mainEntity": [
+      {
+        "@type": "Review",
+        "author": {
+          "@type": "Person",
+          "name": "Justin",
+          "reviewBody": "It’s so convenient and easy to use, and it keeps the score accurate and clear for both the players and the spectators. I wish they had this when I played at the US Open",
+          "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/Justin.png"
+        }        
+      }
+    ]
+}
+
+
+
+

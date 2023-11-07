@@ -1,0 +1,186 @@
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "name": "Testimonials",
+  "description": "From players to organizers, hear from the experiences of The Pickleball Scoreboard users. Discover how our scoreboards have elevated Pickleball games and tournaments.",
+  "mainEntity": [
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Justin",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/Justin.png",
+        "jobTitle": "US Open Medal Winner"
+      },
+      "reviewBody": "It’s so convenient and easy to use, and it keeps the score accurate and clear for both the players and the spectators. I wish they had this when I played at the US Open",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "Convenient and Easy to Use"
+    },
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Alina",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Alina.png",
+        "jobTitle": "Tournament Organizer"
+      },
+      "reviewBody": "WOW, WOW, WOW. The Pickleball Scoreboard is the best product invented for Pickleball players. The custom logo will generate revenue during our tournaments and it will pay for itself in just 2 tournaments.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "Best Product Invented"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Andrew",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Andrew.png",
+        "jobTitle": "Tournament Player"
+      },
+      "reviewBody": "I never realized how much a scoreboard could transform the game until I got The Pickleball Scoreboard. Now, our matches are more organized, and we can focus on the game without any score disputes.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "Transform the Game"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Debra",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Debra.png",
+        "jobTitle": "Tournament Player"
+      },
+      "reviewBody": "I can't imagine playing Pickleball without the Pickleball Scoreboard anymore. It's really intuitive and has transformed the way we keep score during matches. The personalized options make it a real game-changer.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "Real Game-changer"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Evan",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/09/Evan.png",
+        "jobTitle": "Pickleball Instructor"
+      },
+      "reviewBody": "The Pickleball Scoreboard is a huge benefit to teaching new Pickleball players. The scoring is very difficult to grasp, but with The Pickleball Scoreboard they can understand much quicker.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "Reliable Scoring System"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Deb",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Deb.png",
+        "jobTitle": "Pickleball Enthusiast"
+      },
+      "reviewBody": "The hardest part of learning how to play Pickleball is the scoring. The Pickleball Scoreboard solves that problem and is a true game changer for all levels of play.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "A True Game Changer"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Kelby",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Kelby.png",
+        "jobTitle": "Youth Player"
+      },
+      "reviewBody": "The Pickleball Scoreboard is genius. The Net Height Ruler was an incredible idea. Every Pickleball court in the world will have one of these.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "An Incredible Idea"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Beth",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/09/beth.png",
+        "jobTitle": "Director of Pickleball"
+      },
+      "reviewBody": "I needed a scoring system that could cater to all Pickleball players. Then, I found The Pickleball Scoreboard. Its so user-friendly and durable, perfect for our facility and has become a crowd favorite.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "User-friendly & Durable"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Jay",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Jay.png",
+        "jobTitle": "Pickleball Facility Owner"
+      },
+      "reviewBody": "I strive to offer the best amenities to the players at my facility. Its easy-to-use arrows made it a hit with all players. Plus, being able to showcase our facility logo during tournaments has been a great branding opportunity.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "Great Branding Opportunity"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Sam",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Sam.png",
+        "jobTitle": "Tournament Player"
+      },
+      "reviewBody": "I can’t image playing Pickleball without The Pickleball Scoreboard anymore. It’s so easy to use and it eliminates any confusion during the match.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "It’s so Easy to Use"
+    },
+
+    {
+      "@type": "Review",
+      "author": {
+        "@type": "Person",
+        "name": "Allen",
+        "image": "https://thepickleballscoreboard.com/wp-content/uploads/2023/08/Allen.png",
+        "jobTitle": "Team Captain"
+      },
+      "reviewBody": "I love that the spectators can see the score real-time, it makes watching a match so much more enjoyable.",
+      "itemReviewed": {
+        "@type": "Product",
+        "name": "Pickleball Scoreboard"
+      },
+      "headline": "See the Score Real-time"
+    }
+  ]
+}
+
+
+
+

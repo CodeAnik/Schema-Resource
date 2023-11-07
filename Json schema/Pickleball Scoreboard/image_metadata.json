@@ -1,0 +1,89 @@
+{
+  "@context": "http://schema.org",
+  "@type": "ImageGallery",
+  "name": "Get Front Row Seat to Our Pickleball Scoreboard in Action",
+  "description": "Browse through the captivating images spotlighting The Pickleball Scoreboard on-court.",
+  "url": "https://thepickleballscoreboard.com/photo-gallery/",
+  "image": [
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308590.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308598.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308609.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308622-1.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308623.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308633.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308653.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308668.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308672.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308675.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308680-1.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308685.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308690.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308694.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308700.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308704.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308707-1.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308716.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/A7308723-1.jpg"
+    },
+    {
+      "@type": "ImageObject",
+      "url": "https://thepickleballscoreboard.com/wp-content/uploads/2023/11/E-_pikleball_Website-Images_Gallery_photos_A7308579.jpg"
+    }
+  ]
+}
